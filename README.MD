@@ -4,7 +4,7 @@
 - lombok.jarをインストールして、eclipse.iniに追記
 
 # eclipse.iniのlombok.jarの設定
-｀｀｀
+```
 -Xbootclasspath/a:c:\fullpath\lombok.jar
 -javaagent:c:\fullpath\lombok.jar
 ```
